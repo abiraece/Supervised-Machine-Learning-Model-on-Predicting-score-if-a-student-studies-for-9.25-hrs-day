@@ -1,0 +1,1 @@
+# Supervised-Machine-Learning-Model-on-Predicting-score-if-a-student-studies-for-9.25-hrs-day
